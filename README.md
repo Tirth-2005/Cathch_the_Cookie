@@ -3,4 +3,9 @@
 ### •	Composed immersive sound effects and background music to elevate the gaming experience
 
 
-<img src="https://github.com/Tirth-2005/Cathch_the_Cookie/blob/master/resources/gifmaker_me.gif" alt="Men Will Be Men" style="width:48px;height:48px;">
+<img src="https://github.com/Tirth-2005/Cathch_the_Cookie/blob/master/resources/gifmaker_me.gif" alt="Men Will Be Men" style="width:48px;height:48px;"/>
+
+
+
+
+<img src="https://github.com/Tirth-2005/Cathch_the_Cookie/blob/master/resources/images/s1.png" />
